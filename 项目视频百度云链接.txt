@@ -1,0 +1,125 @@
+视频链接:
+链接：https://pan.baidu.com/s/1XgNR_yfN-pieo5i3eKnKPA?pwd=de1c 
+提取码：de1c # BiliBili 魔鬼面具Up
+1. 详细使用教程说明(必读) 2.添加我的github仓库上别的主干说明 3.需要自行添加模块的说明  4.关于BIFPN的说明
+
+链接：https://pan.baidu.com/s/1oaws7JlMcisIQ-6DzhFFFQ?pwd=gwrl 
+提取码：gwrl # BiliBili 魔鬼面具Up
+1. 如何进行断点续训
+
+链接：https://pan.baidu.com/s/1VrhtnE9-ArDqvDPb_DtLtg?pwd=ikx6 
+提取码：ikx6 # BiliBili 魔鬼面具Up
+1. 计算COCO指标教程
+
+链接：https://pan.baidu.com/s/1jYKi__nzatrJdo_9Hyy7NQ?pwd=ppjy 
+提取码：ppjy # BiliBili 魔鬼面具Up
+1.如何在yaml配置文件中添加注意力层
+
+链接：https://pan.baidu.com/s/1wSNSEVIJO46Fo3-heyTVdA?pwd=r74k 
+提取码：r74k # BiliBili 魔鬼面具Up
+1.SCConv和ScConv的使用教程
+
+链接：https://pan.baidu.com/s/1XNW0gPkxM8DxuFeqr7xUsA?pwd=4et6 
+提取码：4et6 # BiliBili 魔鬼面具Up
+1.LAWDS讲解
+
+链接：https://pan.baidu.com/s/1_I6aYSqcqB5B5LO8wdDiBQ?pwd=7ori 
+提取码：7ori # BiliBili 魔鬼面具Up
+1.EMSC,EMSCP讲解
+
+链接：https://pan.baidu.com/s/1a7s7Jur3Js7F-i4QtYFuFA?pwd=4brn 
+提取码：4brn # BiliBili 魔鬼面具Up
+1.DCNV2,DCNV3,DyHeadWithDCNV3相关讲解
+
+链接：https://pan.baidu.com/s/1mOWcDwp64D7G0qEV0RZUJA?pwd=3awi 
+提取码：3awi # BiliBili 魔鬼面具Up
+1.关于C3-XXX和C2f-XXX移植到官方yolov5上的讲解
+
+链接：https://pan.baidu.com/s/1bNP9cf2K024c7XWgpNAEwQ?pwd=97if 
+提取码：97if # BiliBili 魔鬼面具Up
+1.关于OREPA,REPVGGOREPA,EMSC-OREPA,EMSCP-OREPA的说明(视频中的EMSC-OREPA和EMSCP-OREPA模块经反应不稳定,已在后面版本去除)
+2.该如何看懂代码结构,以C2f-Faster-EMA为例
+
+链接：https://pan.baidu.com/s/1ILHwqFO91NT6cnuAIDR7kQ?pwd=96l3 
+提取码：96l3 # BiliBili 魔鬼面具Up
+1. MPCA与DCNV2_Dynamic的说明
+
+链接：https://pan.baidu.com/s/1BtL51pABdbKlQ7SBNRnMzA?pwd=ypeo 
+提取码：ypeo # BiliBili 魔鬼面具Up
+1. 20231010版本更新说明
+
+链接：https://pan.baidu.com/s/1VW9-TVwB16JLLblMtCUJog?pwd=44ap 
+提取码：44ap # BiliBili 魔鬼面具Up
+1. DAttention(Vision Transformer with Deformable Attention CVPR2022)使用注意说明.
+
+链接：https://pan.baidu.com/s/1LOJaHMCFaUCaD3L2B_TIkw?pwd=j75r 
+提取码：j75r # BiliBili 魔鬼面具Up
+1. 20231031版本更新说明
+
+链接：https://pan.baidu.com/s/1XTXuFF5JrgUf4X2o33le8g?pwd=3flg 
+提取码：3flg # BiliBili 魔鬼面具Up
+1. 20231107版本更新说明
+
+链接：https://pan.baidu.com/s/1OQTosRbJ01tLFGF6WTliUQ?pwd=pik1 
+提取码：pik1 # BiliBili 魔鬼面具Up
+1. 20231114版本更新说明
+
+链接：https://pan.baidu.com/s/1c537nVgVPPp2G8ljHw8eOA?pwd=clzu 
+提取码：clzu # BiliBili 魔鬼面具Up
+1. 20231129版本更新说明
+
+链接：https://pan.baidu.com/s/1ksdpTLym7HE2ZmZeCqo9oA?pwd=r3s8 
+提取码：r3s8 # BiliBili 魔鬼面具Up
+1. 20231207版本更新说明
+
+链接：https://pan.baidu.com/s/10VJwImlX2qmQrg4-tRv7tg?pwd=debb 
+提取码：debb # BiliBili 魔鬼面具Up
+1. 20231217版本更新说明
+
+链接：https://pan.baidu.com/s/1vJ2PLa2vVT4qxDP95qo3dQ?pwd=dbs8 
+提取码：dbs8 # BiliBili 魔鬼面具Up
+1. 20231227版本更新说明
+
+链接：https://pan.baidu.com/s/11f3W0CS64nt990Bz04fMPw?pwd=oqyp 
+提取码：oqyp # BiliBili 魔鬼面具Up
+1. 20240104版本更新说明
+
+链接：https://pan.baidu.com/s/1vev1b-DxMc56mTR1JAFbQQ?pwd=hn6x 
+提取码：hn6x # BiliBili 魔鬼面具Up
+1. 20240111版本更新说明
+
+链接：https://pan.baidu.com/s/15iLoFtgzKdAIxbnGEJcntg?pwd=2fvl 
+提取码：2fvl # BiliBili 魔鬼面具Up
+1. 20240116版本更新说明
+
+链接：https://pan.baidu.com/s/1MhwtBCtfzLYoVXv6U7dZDQ?pwd=ij77 
+提取码：ij77 # BiliBili 魔鬼面具Up
+1. 20240122版本更新说明
+
+链接：https://pan.baidu.com/s/1ulZCE16spXEjmGdjZTlPQw?pwd=owbh 
+提取码：owbh # BiliBili 魔鬼面具Up
+1. 20240203版本更新说明
+
+链接：https://pan.baidu.com/s/1FQ90OApXyOqPkCINWr_dvQ?pwd=gc38 
+提取码：gc38 # BiliBili 魔鬼面具Up
+1. 202410216版本更新说明
+
+链接：https://pan.baidu.com/s/1U1Ja7MPXKsabFxGbNABg2w?pwd=nh3n 
+提取码：nh3n # BiliBili 魔鬼面具Up
+1. 202410219版本更新说明
+
+链接：https://pan.baidu.com/s/1o-1GswevIj1q5zltxWqOMA?pwd=0sk2 
+提取码：0sk2 # BiliBili 魔鬼面具Up
+1. 202410222版本更新说明
+
+链接：https://pan.baidu.com/s/1F1TYWjlZ6fAQSgY9cHjwfw?pwd=ndhk 
+提取码：ndhk # BiliBili 魔鬼面具Up
+1. 202410229版本更新说明
+
+链接：https://pan.baidu.com/s/1_EgTEv6UUXGjrRi_11182A?pwd=k5g5 
+提取码：k5g5 # BiliBili 魔鬼面具Up
+1. 202410303版本更新说明
+
+链接：https://pan.baidu.com/s/1QDNysfA56PgtbHhmMfMEGw?pwd=twn5 
+提取码：twn5 # BiliBili 魔鬼面具Up
+1. 202410309版本更新说明
